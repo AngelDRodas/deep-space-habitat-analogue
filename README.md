@@ -32,7 +32,7 @@ A progress photo of the habitat during construction
 A poster I made for the UC Wide CAMP symmposium
 ![Progress Photo](images/CAMP-DSHM-Poster.png)
 
-### 4. Habitat Finished and Staged for HOME Review
+### 5. Habitat Finished and Staged for HOME Review
 The finished and staged habitat ready for the HOME review. 
 ![Progress Photo](images/IMG_5440.jpg)
 
